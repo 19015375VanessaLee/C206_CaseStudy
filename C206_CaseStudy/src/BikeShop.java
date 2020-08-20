@@ -1,9 +1,9 @@
 
 public class BikeShop {
 
-	public static void main(String[] args) {
+//	public static void main(String[] args) {
 		
-	}
+//	}
 		 public static void showMainMenu() {
 			 System.out.println("Main Menu");
 			 Helper.line(30, "-");
