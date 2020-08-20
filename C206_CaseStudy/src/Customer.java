@@ -5,7 +5,7 @@ public class Customer {
 	private String email;
 	private String phone;
 	
-	}
+	
 	public String getName() {
 		return name;
 	}
