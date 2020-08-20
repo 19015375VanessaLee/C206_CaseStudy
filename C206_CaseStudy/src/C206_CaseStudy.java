@@ -1,11 +1,7 @@
-//this is suppose to be the bike shop class from the class diagram
+//im not sure what this class is for
 public class C206_CaseStudy {
 
 	public static void main(String[] args) {
-	}
-		 public static void showMainMenu() {
-			 return;
-
 	}
 
 }

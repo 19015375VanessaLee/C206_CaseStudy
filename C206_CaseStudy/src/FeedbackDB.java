@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class FeedbackDB {
+public class FeedbackDB extends Feedback {
 
 	ArrayList<Feedback> feedbackArrayList = new ArrayList<Feedback>();
 	
