@@ -4,6 +4,12 @@ public class Bike {
 	private String description;
 	private boolean isAvailable;
 	
+	public Bike(String bikeModel, String bikeDesc, Boolean isAvail) {
+		this.model = bikeModel;
+		this.description = bikeDesc;
+		this.isAvailable = isAvail;
+	}
+
 	public String getModel() {
 		return model;
 	}
